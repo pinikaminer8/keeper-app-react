@@ -1,6 +1,4 @@
-# Project Name
-
-[Project Description]
+# Keeper App
 
 ## Table of Contents
 
