@@ -8,7 +8,7 @@
 
 ## About
 
-This is a simple React application for managing notes. You can create, edit, and delete notes with ease. It's a great way to keep track of important information or make to-do lists.
+This is a simple **React** application for managing notes. You can create, edit, and delete notes with ease. It's a great way to keep track of important information or make to-do lists.
 
 ## Features
 
