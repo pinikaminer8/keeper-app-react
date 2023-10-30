@@ -21,16 +21,17 @@ This is a simple **React** application for managing notes. You can create, edit,
 
 ## Getting Started
 
-```bash
-# Clone the repository
-git clone [repository URL]
-cd project-directory
+   ```bash
+   # Clone the repository
+   git clone [repository URL]
+   cd project-directory
+   
+   # Install dependencies
+   npm install
+   
+   # Start the development server
+   npm start
 
-# Install dependencies
-npm install
 
-# Start the development server
-npm start
----
 **Disclaimer:** The CSS file used in this project was not created by me.
 
