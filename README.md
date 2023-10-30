@@ -18,6 +18,8 @@ This is a simple **React** application for managing notes. You can create, edit,
 
  This project was created as part of The Complete 2023 Web Development Bootcamp by Dr. Angela Yu.
 
+ **Disclaimer:** The CSS file used in this project was not created by me.
+
 
 ## Getting Started
 
@@ -31,7 +33,3 @@ This is a simple **React** application for managing notes. You can create, edit,
    
    # Start the development server
    npm start
-
-
-**Disclaimer:** The CSS file used in this project was not created by me.
-
