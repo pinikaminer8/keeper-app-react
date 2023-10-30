@@ -32,6 +32,6 @@ npm install
 # Start the development server
 npm start
 
-```plaintext
+```markdown
 **Disclaimer:** The CSS file used in this project was not created by me.
 
